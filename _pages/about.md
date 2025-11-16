@@ -38,27 +38,12 @@ Research Interests:
 <span class='anchor' id='-publications'></span>
 # 📑 Publications 
 
-### English 
----
 
 - **M. Xu**, S. Shi and K. Huang, “The connection between the dynamical properties of 3D systems and the image of the energy-Casimir mapping,” Discrete Contin. Dyn. Syst. 44, 791-807 (2024).（SCI, T2）[[HTML]](https://www.aimsciences.org//article/doi/10.3934/dcds.2023126)
 
 - **M. Xu**, S. Shi and K. Huang, “On the integrable stretch-twist-fold flow: BiHamiltonian structures and global dynamics,” J. Math. Phys. 65, 022704 
 (2024).（SCI, T2）[[HTML]](https://doi.org/10.1063/5.0185673) 
 
-
-
-
-
-### Chinese
----
-
-- **Xu Mingxing** and Zhou Ran, "Bi-Hamiltonian structure of the three-dimensional Lotka-Volterra system", Journal of Jilin University(Science Edition), 2019, 57(4): 773-778.
-  **许明星**，周冉.“三维 Lotka-Volterra 系统的双 Hamilton 结构”，吉林大学学报理学版，2019, 57(4): 773-778.(中文核心) [[HTML]](http://xuebao.jlu.edu.cn/lxb/CN/Y2019/V57/I04/773)
-
-- Niu Yanqiu, Yang Shuangling and **Xu Mingxing**,"Invariant algebraic surfaces, Hamiltonian structure and Dynamics at Infinity for the reduced three-wave
-interaction system", Journal of Jilin University(Science Edition), 2019, 57(6): 1333-1338.
-  牛艳秋，杨双羚，**许明星**.“一类三波作用模型的不变代数曲面，Hamilton 结构和无穷远动力行为”，吉林大学学报理学版，2019, 57(6): 1333-1338. (中文核心)[[HTML]](http://xuebao.jlu.edu.cn/lxb/CN/Y2019/V57/I06/1333)
 
 
 <span class='anchor' id='-projects'></span>
