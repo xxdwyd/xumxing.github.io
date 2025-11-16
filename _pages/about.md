@@ -32,9 +32,9 @@ Research Interests:
 
 <span class='anchor' id='-Educations'></span>
 # 🎓 Educations 
-- **Doctor: **Ph.D., Dongshin University, Jeollanam do, South Korea, supervisor: Prof. Kwon JaeHwan
-- **Master: **Education Management, INTI International University, Negeri Sembilan, Malaysia, supervisor: Prof. Gerald Victor Richard Joseph
-- **Undergraduate: **Management, College of Science, Yanbian University, Yanji China. 
+- **Doctor**, Ph.D., Dongshin University, Jeollanam do, South Korea, supervisor: Prof. Kwon JaeHwan
+- **Master**, Education Management, INTI International University, Negeri Sembilan, Malaysia, supervisor: Prof. Gerald Victor Richard Joseph
+- **Undergraduate**, Management, College of Science, Yanbian University, Yanji China. 
  
 
 <span class='anchor' id='-publications'></span>
