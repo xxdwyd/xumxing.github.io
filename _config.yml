@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wu Yundong"
 description              : "This is the academic homepage of Ph.D. Wu."
-repository               : "xxdwyd/xumxing.github.io"
+repository               : "xxdwyd/xxdwyd.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu Mingxing"
+  name             : "Wu Yundong"
   avatar           : "images/xxxx.png"
-  bio              : "Anhui University"
-  location         : "Hefei, Anhui Province, China"
-  employer         : #"Hefei General Machinery Research Institute"
-  googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "xmx20@mails.jlu.edu.cn"
-  researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
+  bio              : "Dongshin University"
+  location         : "Jeollanam-do, South Korea"
+  employer         : #"Dongshin University"
+  googlescholar    : #"https://scholar.google.com/citations?user=tpqTLLsAAAAJ"
+  email            : "ethanwu0525@gmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Yundong-Wu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -36,15 +36,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xumxing"
+  github           : "xxdwyd"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/yundong-wu-b68705114/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0002-6856-7591"
+  orcid            : "https://orcid.org/0009-0007-4687-7149"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
