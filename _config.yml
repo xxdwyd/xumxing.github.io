@@ -15,14 +15,14 @@ google_scholar_stats_use_cdn : false
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  KkZb560J1exTVQ2ZOVugzTFmkrQOC9yZ44zjH07F9_w # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : CCEDAC2E01970A0FD50F6305A857460B # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
   name             : "Wu Yundong"
-  avatar           : "images/xxxx.png"
+  avatar           : "https://free.picui.cn/free/2025/11/16/69196a910cd31.jpg"
   bio              : "Dongshin University"
   location         : "Jeollanam-do, South Korea"
   employer         : #"Dongshin University"
@@ -36,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xxdwyd"
+  github           : # e.g., "xxdwyd"
   google_plus      :
   keybase          :
   instagram        :
@@ -55,7 +55,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://baike.baidu.com/item/%E5%90%B4%E4%BA%91%E4%B8%9C/23518165"
 
 
 # Reading Files
